@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React from "react";
 import '../styles/App.css';
 import Heading from "./Heading";
 import InputQuery from "./InputQuery";
@@ -17,3 +17,4 @@ const App = () => {
 }
 
 
+export default App;
